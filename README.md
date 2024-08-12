@@ -9,6 +9,22 @@ Looking at the large amount of music that was made by Bach, Mozart, Beethoven an
 
 # Model Satistics:
 ![image](https://github.com/user-attachments/assets/7e467f81-f644-4280-8448-7dd4a54b7cbe)
+Validation Precision: 0.6661091212994092
+Validation Recall: 0.7404129793510325
+Validation F1 Score: 0.697087365779739
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.92       216
+           1       0.47      0.30      0.37        46
+           2       0.00      0.00      0.00        30
+           3       0.40      0.53      0.46        47
+
+    accuracy                           0.74       339
+   macro avg       0.43      0.45      0.44       339
+weighted avg       0.67      0.74      0.70       339
+
+Calculated Accuracy: 0.7404129793510325
 
 # Conclusions:
 The CNN-LSTM model is built to recognize patterns of the different composers using MIDI files. It is able to understand the timing of musical notes, and reach an accuracy of 74.7%. While it shows that the model can identify the composers there is still room for improvement especially by improving the data provided and experimenting with other models. Even though through the challenges we were able to predict adequately with minimal loss.
