@@ -10,8 +10,11 @@ Looking at the large amount of music that was made by Bach, Mozart, Beethoven an
 # Model Satistics:
 ![image](https://github.com/user-attachments/assets/7e467f81-f644-4280-8448-7dd4a54b7cbe)
 Validation Precision: 0.6661091212994092
+
 Validation Recall: 0.7404129793510325
+
 Validation F1 Score: 0.697087365779739
+
 Calculated Accuracy: 0.7404129793510325
 
 # Conclusions:
