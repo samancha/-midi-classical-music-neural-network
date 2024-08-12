@@ -8,7 +8,10 @@ Looking at the large amount of music that was made by Bach, Mozart, Beethoven an
 	The documentation below will show the process that led to the implementation and development of the AI model. This will be supported by visuals and plots that will help to provide an ample display of model performance and how the model is able to classify each piece.
 
 # Model Satistics:
+![image](https://github.com/user-attachments/assets/7e467f81-f644-4280-8448-7dd4a54b7cbe)
 
 # Conclusions:
+The CNN-LSTM model is built to recognize patterns of the different composers using MIDI files. It is able to understand the timing of musical notes, and reach an accuracy of 74.7%. While it shows that the model can identify the composers there is still room for improvement especially by improving the data provided and experimenting with other models. Even though through the challenges we were able to predict adequately with minimal loss.
 
 # Data Source:
+Data for this project was provided at this link: https://www.kaggle.com/datasets/blanderbuss/midi-classic-music
